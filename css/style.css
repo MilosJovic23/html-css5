@@ -2,7 +2,6 @@
 	margin: 0;
 	padding: 0;
 }
-
 .header {
 	background-image: url("../slike/slika1.jpg");
 	background-repeat: no-repeat;
@@ -68,7 +67,6 @@
 	gap: 20px;
 	justify-items: center;
 }
-
 .textBox {
 	background-color: white;
 	gap: 50px;
